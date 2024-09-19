@@ -4,9 +4,9 @@
     "title": "Dummy Json",
     "version": "1.0.0"
   },
-  "servers": {
-    "urls": "https://dummyjson.com/"
-  },
+  "servers": [
+    {"url": "https://dummyjson.com/"}
+  ],
   "paths": {
     "/products": {
       "get": {
