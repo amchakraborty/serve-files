@@ -6,7 +6,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: service-catalog
-  system: service-catalog-backstage
+  owner: test
+  system: test-system
   definition:
     $text: https://github.com/amchakraborty/serve-files/blob/main/test.json
