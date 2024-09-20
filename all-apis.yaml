@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: api-locations
+  description: A collection of all test APIs
+spec:
+  targets:
+    - ./apis/test-api.yaml
