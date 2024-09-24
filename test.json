@@ -5,7 +5,7 @@
     "version": "1.0.0"
   },
   "servers": [
-    {"url": "https://dummyjson.com/"}
+    {"url": "${BASE_URL}" }
   ],
   "paths": {
     "/products": {
